@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+    padding: 10px;
+}
+
+.Card{
+    color: #FDFDFF;
+    filter: drop-shadow(0px 4px 22px rgba(0, 106, 180, 0.13));;
+    width: 50ch;
+    padding: 10px;
+    box-shadow: none;
+    
+}
+
+.column{
+    flex-direction: column;
+    flex-grow: 10;
+    padding-right: 8ch;
+}
+
+.Name{
+    color: black;
+}
+
+.LastDate{
+    color: black;
+}
+

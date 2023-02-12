@@ -1,0 +1,7 @@
+.baseCard{
+    width: fit-content;
+    max-width: 60ch;
+    color: #DFDFDF;
+    padding: 10px;
+    margin: 10px;
+}
